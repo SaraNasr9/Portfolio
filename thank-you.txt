@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Thank You</title>
   <style>
     body {
@@ -16,8 +16,14 @@
       text-align: center;
       margin: 0;
     }
-    h1 { font-size: 2.5rem; margin-bottom: 1rem; }
-    p { font-size: 1.2rem; margin-bottom: 2rem; }
+    h1 {
+      font-size: 2.5rem;
+      margin-bottom: 1rem;
+    }
+    p {
+      font-size: 1.2rem;
+      margin-bottom: 2rem;
+    }
     a {
       color: #fff;
       background-color: #d6336c;
@@ -27,14 +33,16 @@
       font-weight: bold;
       transition: all 0.3s;
     }
-    a:hover { background-color: #a61d4a; }
+    a:hover {
+      background-color: #a61d4a;
+    }
   </style>
 </head>
 <body>
   <div>
     <h1>Thank You! 🎉</h1>
-    <p>Your message has been sent successfully. I will respond as soon as I see your email!</p>
-    <a href="https://saranasr9.github.io/Portfolio/">Back to Home</a>
+    <p>Your message has been sent successfully.</p>
+    <a href="https://SaraNasr9.github.io/Portfolio/">Back to Home</a>
   </div>
 </body>
 </html>
