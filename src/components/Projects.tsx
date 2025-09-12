@@ -6,7 +6,7 @@ const Projects = () => {
     {
       title: "Hotel Booking System",
       description: "SQL Server project for managing hotel rooms, customers, and bookings.",
-      link: "https://drive.google.com/drive/folders/1Vg3Sqtr-k1hBGctW6AE54Fu0xKa6v1B4?usp=sharing",
+      link: "https://saranasr9.github.io/Website-Hotel-Booking/",
       status: "completed"
     },
     {
